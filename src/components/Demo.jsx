@@ -52,7 +52,7 @@ const Demo = () => {
             onSubmit={handleSubmit}>
             <h1 
                 className='absolute left-0 my-2 ml-3 w-5'
-            >👉</h1>
+            >🔗</h1>
             <input 
                 type='url'
                 placeholder='Enter a URL'
@@ -64,7 +64,7 @@ const Demo = () => {
             <button
               type='submit'
               className='submit_btn peer-focus:border-gray-700 peer-focus:text-gray-700'
-            >👇</button>
+            >↵</button>
             </form>
 
             {/* Browsing history*/}
