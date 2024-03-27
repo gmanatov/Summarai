@@ -3,3 +3,4 @@
  
  Future Plans: create premium tier and process it with Stripe 
 
+[Try it!](https://grand-queijadas-8c50d0.netlify.app/)
